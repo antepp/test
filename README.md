@@ -1,2 +1,3 @@
-# test
-Ruby website
+Welcome!
+
+Lets play the ruby-tube.
